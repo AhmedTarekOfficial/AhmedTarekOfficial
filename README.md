@@ -1,106 +1,67 @@
 <div align="center">
+<img src="./assets/profile-banner.svg" width="100%" alt="Ahmed Tarek — Data Science and AI; illustrated skyline and blossoms" />
 
-<img src="assets/profile-banner.svg" width="100%" alt="Ahmed Tarek banner" />
-
-<img src="assets/typing.svg" width="700" alt="Ahmed Tarek typing intro" />
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/AhmedTarekOfficial?style=for-the-badge&color=8b5cf6&labelColor=1e1b2e" alt="followers" />
-<img src="https://img.shields.io/badge/Data%20Science%20and%20AI-ff7eb6?style=for-the-badge&labelColor=1e1b2e" alt="track" />
-<img src="https://img.shields.io/badge/Elsewedy%20University-8b5cf6?style=for-the-badge&labelColor=1e1b2e" alt="university" />
-
+<p><strong>Machine Learning · NLP · RAG · AI Agents</strong></p>
+<p><a href="https://github.com/AhmedTarekOfficial?tab=repositories">Explore my repositories</a></p>
+<img src="./assets/section-divider.svg" width="92%" alt="" />
 </div>
 
-<img src="assets/section-divider.svg" width="100%" alt="divider" />
+## 01 · About me
 
-## 🌸 About me
+I'm **Ahmed Tarek**, a Computer Science student specializing in **Data Science & AI** at **Elsewedy University of Technology**, Egypt.
 
-Hey I'm Ahmed, a Computer Science student studying Data Science and AI at Elsewedy University of Technology in Egypt
-
-I like turning messy data into something useful. Right now I'm digging into machine learning, NLP, RAG and AI agents, and I try to build a little something every time I learn a new idea
-
-My goal is simple, be a better version of myself every single day
+I enjoy building and learning about **machine learning, natural language processing (NLP), retrieval-augmented generation (RAG)** and intelligent workflows. My repositories include experiments and applications at different stages of development.
 
 ```python
-ahmed = {
-    "name": "Ahmed Tarek",
-    "alias": "VectorForge",
-    "currently_into": ["Machine Learning", "NLP", "RAG", "AI Agents"],
-    "learning": ["Deep Learning", "PyTorch", "AI Orchestration"],
-    "power_level": "still training"
+my_focus = {
+    "interests": ["Machine Learning", "NLP", "RAG", "AI Agents"],
+    "hands_on": ["Python", "Data Processing", "SQL", "LangChain"],
+    "learning": ["Deep Learning", "AI Orchestration"]
 }
 ```
 
-<img src="assets/section-divider.svg" width="100%" alt="divider" />
+<div align="center"><img src="./assets/section-divider.svg" width="92%" alt="" /></div>
 
-## ⚔️ My toolkit
+## 02 · Skills & tools
 
-<div align="center">
+**Programming and data:** `Python` · `Java` · `SQL` · `Pandas` · `NumPy`
 
-<img src="https://skillicons.dev/icons?i=py,java,cpp,spring,mysql,docker,git,pytorch,html,linux&perline=10" alt="skills" />
+**AI and machine learning:** `Machine Learning` · `NLP` · `RAG` · `LangChain` · `PyTorch (learning)`
 
-</div>
+**Backend and developer tools:** `Spring Boot` · `MySQL` · `Docker` · `Git`
 
-<img src="assets/section-divider.svg" width="100%" alt="divider" />
+<sub>These reflect hands-on project work, coursework or ongoing learning, not expert-level proficiency in every technology.</sub>
 
-## 📊 Stats
+<div align="center"><img src="./assets/section-divider.svg" width="92%" alt="" /></div>
 
-<div align="center">
+## 03 · Selected projects
 
-<img src="assets/stats.svg" width="49%" alt="stats" />
-<img src="assets/langs.svg" width="49%" alt="top languages" />
+| Repository | Focus |
+|:--|:--|
+| **[AI Content Operational — Skip Studio](https://github.com/AhmedTarekOfficial/Ai-content-operational-)** | AI-assisted campaign briefs and content planning grounded in brand guidelines and review workflows |
+| **[Interactive Safety Workspace Platform](https://github.com/AhmedTarekOfficial/Interactive-Safety-Workspace-platform)** | Safety training and employee management platform using Java, Spring Boot and MySQL |
+| **[Religion RAG App](https://github.com/AhmedTarekOfficial/Religion-rag-app)** | Exploration of retrieval-augmented generation for religious information |
+| **[Extract Specifications](https://github.com/AhmedTarekOfficial/Extract_Specifications)** | Specification extraction work |
+| **[Talking Plant](https://github.com/AhmedTarekOfficial/TalkingPlantt)** | IoT plant monitoring project |
+| **[Game Screen Translator](https://github.com/AhmedTarekOfficial/Game-screen-translator)** | Game-screen translation experiment |
 
-</div>
+*These links point to real repositories; they are not claims that every project is production-ready.*
 
-<img src="assets/section-divider.svg" width="100%" alt="divider" />
+<div align="center"><img src="./assets/section-divider.svg" width="92%" alt="" /></div>
 
-## 🎴 Things I've built
+## 04 · Education & experience
 
-<div align="center">
+- **Computer Science — Data Science & AI**, Elsewedy University of Technology
+- **Generative AI internship** — Retrieval-based AI applications, grounded responses, orchestration and guardrails
+- **IBM Data Engineering course** — Completed
+- **Learning interests** — NLP, data cleansing, machine learning, deep learning and AI system design
 
-<a href="https://github.com/AhmedTarekOfficial/Ai-content-operational-"><img src="assets/repo-1.svg" width="49%" alt="Skip Studio" /></a>
-<a href="https://github.com/AhmedTarekOfficial/Interactive-Safety-Workspace-platform"><img src="assets/repo-2.svg" width="49%" alt="Safety Workspace Platform" /></a>
-<a href="https://github.com/AhmedTarekOfficial/Religion-rag-app"><img src="assets/repo-3.svg" width="49%" alt="Religion RAG App" /></a>
-<a href="https://github.com/AhmedTarekOfficial/TalkingPlantt"><img src="assets/repo-4.svg" width="49%" alt="Talking Plant" /></a>
+<div align="center"><img src="./assets/section-divider.svg" width="92%" alt="" /></div>
 
-</div>
+## 05 · Keep building
 
-Some of these are still works in progress and that's part of the fun
+**Learn the fundamentals. Build thoughtfully. Improve one iteration at a time.**
 
-<img src="assets/section-divider.svg" width="100%" alt="divider" />
+[View my code and projects](https://github.com/AhmedTarekOfficial?tab=repositories)
 
-## 🎓 Journey so far
-
-I'm studying Computer Science with a Data Science and AI track at Elsewedy University of Technology
-
-I did a Generative AI internship where I worked on retrieval based apps, grounded answers, orchestration and guardrails
-
-I also finished the IBM Data Engineering course
-
-<img src="assets/section-divider.svg" width="100%" alt="divider" />
-
-## 🐍 Contribution snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedTarekOfficial/AhmedTarekOfficial/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedTarekOfficial/AhmedTarekOfficial/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/AhmedTarekOfficial/AhmedTarekOfficial/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<img src="assets/section-divider.svg" width="100%" alt="divider" />
-
-## 💌 Let's talk
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ahmedtarekahmed"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Tarek-ff7eb6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b2e" alt="LinkedIn" /></a>
-<a href="https://github.com/AhmedTarekOfficial?tab=repositories"><img src="https://img.shields.io/badge/Browse%20my%20repos-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b2e" alt="Repositories" /></a>
-
-<br/><br/>
-
-Learn the basics, build something, then make it better
-
-</div>
+<div align="center"><img src="./assets/section-divider.svg" width="92%" alt="" /></div>
