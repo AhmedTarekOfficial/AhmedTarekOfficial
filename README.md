@@ -1,31 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=210&section=header&text=Ahmed%20Tarek&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20%7C%20Building%20Intelligent%20Systems&descAlignY=60&descSize=17" width="100%" alt="Ahmed Tarek — Data Science and AI"/>
+<img src="./assets/tokyo-night.svg" width="100%" alt="Original Tokyo Night anime-inspired banner: Ahmed Tarek, Data Science and AI"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=BB9AF7&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Exploring+RAG+and+AI+Agents;From+Data+to+Intelligent+Applications;学び続ける+%7C+Keep+Learning" alt="Animated introduction"/>
+<br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=AhmedTarekOfficial&color=7aa2f7&style=flat-square)](https://github.com/AhmedTarekOfficial)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=650&lines=Exploring+AI%2C+NLP+%26+RAG;Building+Intelligent+Systems;Learning+Through+Real+Projects" alt="Animated introduction"/>
+
+<br/>
+
+[![Profile views](https://komarev.com/ghpvc/?username=AhmedTarekOfficial&color=bb9af7&style=flat-square&label=VISITORS)](https://github.com/AhmedTarekOfficial)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-1a1b26?style=flat-square&logo=github&logoColor=bb9af7)](https://github.com/AhmedTarekOfficial?tab=repositories)
+
+<img src="./assets/sakura-divider.svg" width="100%" alt="Sakura divider"/>
 
 </div>
 
----
+### 🌙 01 // The person behind the code
 
-### 🌙 About me
+I'm **Ahmed Tarek**, a **Computer Science student specializing in Data Science & AI** at **Elsewedy University of Technology** in Egypt.
 
-I'm **Ahmed Tarek**, a Computer Science student specializing in **Data Science & AI** at Elsewedy University of Technology, Egypt.
+I like turning ideas into working applications, especially projects involving **machine learning, NLP, retrieval-augmented generation (RAG)** and intelligent workflows. My repositories include experiments, learning projects and applications at different stages of development.
 
-I enjoy exploring how **machine learning, language models, retrieval systems and software engineering** can be combined to solve practical problems. I'm actively learning and building; the repositories below show my projects and experiments rather than claims of production-scale deployments.
-
-- 🧠 **Main interests:** Machine Learning, NLP, Retrieval-Augmented Generation (RAG), AI agents
-- 🔧 **Hands-on areas:** Python, data processing, SQL, LangChain, Java / Spring Boot
-- 📚 **Currently exploring:** AI system orchestration, information retrieval and deep learning
-- 🎯 **Goal:** Grow into an AI / ML engineering role
-
-### ⚡ Tools & technologies
+```python
+about_me = {
+    "focus": ["Data Science", "AI", "NLP", "RAG"],
+    "exploring": ["AI Agents", "Deep Learning", "Orchestration"],
+    "mindset": "Learn the fundamentals. Build. Iterate."
+}
+```
 
 <div align="center">
+<img src="./assets/sakura-divider.svg" width="100%" alt="Sakura divider"/>
+</div>
 
-**Programming & data**
+### ⚡ 02 // My toolkit
+
+**Languages & data**
 
 ![Python](https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=7aa2f7)
 ![Java](https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=f7768e)
@@ -33,7 +43,7 @@ I enjoy exploring how **machine learning, language models, retrieval systems and
 ![Pandas](https://img.shields.io/badge/Pandas-1a1b26?style=for-the-badge&logo=pandas&logoColor=bb9af7)
 ![NumPy](https://img.shields.io/badge/NumPy-1a1b26?style=for-the-badge&logo=numpy&logoColor=9ece6a)
 
-**AI & application development**
+**AI, backend & developer tools**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1a1b26?style=for-the-badge&logo=pytorch&logoColor=f7768e)
 ![LangChain](https://img.shields.io/badge/LangChain-1a1b26?style=for-the-badge&logo=langchain&logoColor=9ece6a)
@@ -42,49 +52,57 @@ I enjoy exploring how **machine learning, language models, retrieval systems and
 ![Docker](https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7aa2f7)
 ![Git](https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=f7768e)
 
+<sub>These are tools I've used in projects, coursework or hands-on learning — not a claim of expert proficiency in every tool.</sub>
+
+<div align="center">
+<img src="./assets/sakura-divider.svg" width="100%" alt="Sakura divider"/>
 </div>
 
-> Technologies above reflect coursework, hands-on exploration or project work; they are **not** claims of expert-level proficiency.
+### 🏮 03 // Projects from my world
 
-### 🏮 Selected projects
-
-| Project | What it explores |
+| Project | Focus |
 |:---|:---|
-| [AI Content Operational — Skip Studio](https://github.com/AhmedTarekOfficial/Ai-content-operational-) | AI-assisted campaign brief summarization and content planning with client brand guidelines and review workflows |
-| [Religion RAG App](https://github.com/AhmedTarekOfficial/Religion-rag-app) | A repository exploring retrieval-augmented generation for religious information |
-| [Extract Specifications](https://github.com/AhmedTarekOfficial/Extract_Specifications) | Specification extraction work |
-| [Interactive Safety Workspace Platform](https://github.com/AhmedTarekOfficial/Interactive-Safety-Workspace-platform) | Workplace safety training and management platform using Java, Spring Boot and MySQL |
-| [Talking Plant](https://github.com/AhmedTarekOfficial/TalkingPlantt) | IoT plant monitoring project |
-| [Game Screen Translator](https://github.com/AhmedTarekOfficial/Game-screen-translator) | Game-screen translation experiment |
+| **[AI Content Operational — Skip Studio](https://github.com/AhmedTarekOfficial/Ai-content-operational-)** | AI-assisted campaign brief summaries and content plans grounded in brand guidelines, with review workflows |
+| **[Interactive Safety Workspace Platform](https://github.com/AhmedTarekOfficial/Interactive-Safety-Workspace-platform)** | Workplace safety and employee training management using Java, Spring Boot and MySQL |
+| **[Religion RAG App](https://github.com/AhmedTarekOfficial/Religion-rag-app)** | RAG-focused exploration for religious information |
+| **[Extract Specifications](https://github.com/AhmedTarekOfficial/Extract_Specifications)** | Specification extraction project |
+| **[Talking Plant](https://github.com/AhmedTarekOfficial/TalkingPlantt)** | IoT plant monitoring work |
+| **[Game Screen Translator](https://github.com/AhmedTarekOfficial/Game-screen-translator)** | Game-screen translation experiment |
 
-### 🎓 Learning & experience
-
-- **Computer Science — Data Science & AI**, Elsewedy University of Technology
-- **Generative AI internship:** Worked on AI-related applications and retrieval-based workflows, with particular interest in grounding responses and guardrails
-- **Data engineering learning:** Completed an IBM Data Engineering course
-- **Practical interests:** NLP, data cleansing and analysis, backend development and IoT
-
-### 📊 GitHub activity
+*Project descriptions reflect documented repositories and previously shared project context. A repository's presence doesn't imply a deployed, production-ready product.*
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedTarekOfficial&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub statistics" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTarekOfficial&layout=compact&theme=tokyonight&hide_border=true" alt="Languages in public repositories" height="170"/>
-
+<img src="./assets/sakura-divider.svg" width="100%" alt="Sakura divider"/>
 </div>
 
-> GitHub cards are provided by an external service and may sometimes be unavailable. Language percentages represent repository code, not proficiency.
+### 🎓 04 // Experience & ongoing learning
 
-### 🌸 Philosophy
+- **Computer Science · Data Science & AI** — Elsewedy University of Technology
+- **Generative AI internship** — Worked on retrieval-based AI applications, focusing on grounded answers, orchestration and guardrails
+- **IBM Data Engineering course** — Completed
+- **Learning focus** — NLP, data cleansing, machine learning, deep learning, and AI system design
 
-> **「継続は力なり」 — Consistency is strength.**
->
-> Learn the fundamentals. Build something useful. Improve it one iteration at a time.
+<div align="center">
+<img src="./assets/sakura-divider.svg" width="100%" alt="Sakura divider"/>
+</div>
+
+### 📊 05 // GitHub activity
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Explore_my_repositories-1a1b26?style=for-the-badge&logo=github&logoColor=bb9af7)](https://github.com/AhmedTarekOfficial?tab=repositories)
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedTarekOfficial&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTarekOfficial&layout=compact&theme=tokyonight&hide_border=true" alt="Public repository language distribution" height="165"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=110&section=footer" width="100%" alt="Decorative footer"/>
+<sub>Third-party statistics cards may occasionally be unavailable. Language distribution reflects repository code, not skill proficiency.</sub>
+
+<img src="./assets/sakura-divider.svg" width="100%" alt="Sakura divider"/>
+
+### 🌸 「継続は力なり」
+
+*Consistency is strength.*
+
+**Learn deeply · Build thoughtfully · Keep improving**
+
+[![Explore my work](https://img.shields.io/badge/Explore_my_repositories-252b47?style=for-the-badge&logo=github&logoColor=f9a8d4)](https://github.com/AhmedTarekOfficial?tab=repositories)
 
 </div>
