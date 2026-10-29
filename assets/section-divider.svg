@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="38" viewBox="0 0 1000 38" role="img" aria-label="Decorative blossom divider">
+<path d="M20 19H462 M538 19H980" stroke="#a193cf" stroke-width="2" opacity=".65"/>
+<g fill="#f6accb">
+<ellipse cx="500" cy="9" rx="6.5" ry="11"/>
+<ellipse cx="510" cy="17" rx="6.5" ry="11" transform="rotate(72 510 17)"/>
+<ellipse cx="506" cy="28" rx="6.5" ry="11" transform="rotate(144 506 28)"/>
+<ellipse cx="494" cy="28" rx="6.5" ry="11" transform="rotate(216 494 28)"/>
+<ellipse cx="490" cy="17" rx="6.5" ry="11" transform="rotate(288 490 17)"/></g>
+<circle cx="500" cy="19" r="4.5" fill="#fce7f3"/></svg>
